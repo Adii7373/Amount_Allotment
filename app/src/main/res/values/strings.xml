@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Amt Allotement</string>
+    <string name="title_activity_textifile">Textifile</string>
+    <string name="title_activity_amt_logic">Amt_Logic</string>
+</resources>

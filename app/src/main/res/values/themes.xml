@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MysSplashscreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/special_yellow_for_splash</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logolamoutn</item>
+        <item name="windowSplashScreenAnimationDuration">8000</item>
+        <item name="postSplashScreenTheme">@style/Theme.AmtAllotement</item>
+    </style>
+
+
+    <style name="Theme.AmtAllotement" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
